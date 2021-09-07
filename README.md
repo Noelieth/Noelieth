@@ -8,7 +8,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://noelieth.github.io/portfolio/)](https://noelieth.github.io/portfolio/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=noelieth&color=blue&logo=flat)
-[![Linkedin](https://img.shields.io/badge/noeliethlongart-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/noelieth-longart/)](https://www.linkedin.com/in/noelieth-longart/)
+[![Linkedin](https://img.shields.io/badge/noeliethlongart-black?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/noelieth-longart/)](https://www.linkedin.com/in/noelieth-longart/)
+[![Telegram](https://img.shields.io/badge/noelieth-black?style=flat&logo=Telegram&logoColor=white&link=http://t.me/noelieth/)](http://t.me/noelieth/)
 [![Behance](https://img.shields.io/badge/noeliethlongart-black?style=flat&logo=Behance&logoColor=blue&target=_blank&link=https://www.behance.net/noeliethlongart)](https://www.behance.net/noeliethlongart)
 [![Dribbble](https://img.shields.io/badge/noelieth-black?style=flat&logo=Dribbble&logoColor=pink&target=_blank&link=https://dribbble.com/noelieth)](https://dribbble.com/noelieth)
 
