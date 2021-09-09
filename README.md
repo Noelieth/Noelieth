@@ -44,7 +44,8 @@ WordPress website design and development. Desktop applications UX/UI, prototypes
 ![CSS](https://img.shields.io/badge/-CSS-fafafa?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fafafa?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fafafa?style=flat&logo=javascript)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-fafafa?style=flat&logo=jquery)&nbsp;\
+![JQuery](https://img.shields.io/badge/-JQuery-fafafa?style=flat&logo=jquery&logoColor=007ACC)&nbsp;\
+![PHP](https://img.shields.io/badge/-PHP-fafafa?&logo=PHP)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-fafafa?&logo=MySQL)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-fafafa?&logo=PostgreSQL)\
 ![Git](https://img.shields.io/badge/-Git-fafafa?style=flat&logo=git)&nbsp;
