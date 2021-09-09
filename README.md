@@ -38,10 +38,40 @@ WordPress website design and development. Desktop applications UX/UI, prototypes
 - Design Systems, guides, design documentation and component libraries
 - Marketing design, advertising, designing for integrated marketing strategy, social media campaigns
 
+## Tech Stack 🛠:
+
+![HTML](https://img.shields.io/badge/-HTML-fafafa?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-fafafa?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-fafafa?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-fafafa?style=flat&logo=javascript)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-fafafa?style=flat&logo=jquery)&nbsp;\
+![SQL](https://img.shields.io/badge/-SQL-fafafa?&logo=MySQL)&nbsp;
+![Postgres](https://img.shields.io/badge/-Postgres-fafafa?&logo=PostgreSQL)\
+![Git](https://img.shields.io/badge/-Git-fafafa?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-fafafa?style=flat&logo=github&logoColor=333)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-fafafa?style=flat&logo=gitlab)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-fafafa?style=flat&logo=markdown&logoColor=333)\
+![Jira](https://img.shields.io/badge/-Jira-fafafa?style=flat&logo=jira&logoColor=333)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-fafafa?style=flat&logo=trello&logoColor=333)&nbsp;
+![Asana](https://img.shields.io/badge/-Asana-fafafa?style=flat&logo=asana&logoColor=333)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-fafafa?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-fafafa?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-fafafa?style=flat&logo=adobe-photoshop)&nbsp;
+![Adobe XD](https://img.shields.io/badge/-XD-fafafa?style=flat&logo=adobe-xd)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-fafafa?style=flat&logo=figma)
+
 ## Find me around the web 🌎: 
 - My stuffs on <a href="https://dribbble.com/noelieth">Dribbble</a> 🔮
 - Projects I have done on <a href="https://www.behance.net/noeliethlongart"> Behance</a> 📕
 - Sharing updates on <a href="https://www.linkedin.com/in/noelieth-longart/">LinkedIn</a> 💼
+
+### GitHub Analytics ⚙️:
+
+<p>
+<a href="https://github.com/noelieth">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noelieth&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
