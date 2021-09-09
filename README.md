@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![Behance](https://img.shields.io/badge/noeliethlongart-black?style=flat&logo=Behance&logoColor=blue&target=_blank&link=https://www.behance.net/noeliethlongart)](https://www.behance.net/noeliethlongart)
 [![Dribbble](https://img.shields.io/badge/noelieth-black?style=flat&logo=Dribbble&logoColor=pink&target=_blank&link=https://dribbble.com/noelieth)](https://dribbble.com/noelieth)
 
-<img src="https://raw.githubusercontent.com/noelieth/noelieth/master/gh-header-image.png" alt="banner that says Noelieth Longart">
+<img src="https://raw.githubusercontent.com/noelieth/noelieth/master/header-image.png" alt="banner that says Noelieth Longart">
 
 - 🔭 I’m currently working on to brushing up my skills
 - 👀 I’m interested in web design
