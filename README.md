@@ -52,8 +52,8 @@ WordPress website design and development. Desktop applications UX/UI, prototypes
 ![GitHub](https://img.shields.io/badge/-GitHub-fafafa?style=flat&logo=github&logoColor=333)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-fafafa?style=flat&logo=gitlab)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-fafafa?style=flat&logo=markdown&logoColor=333)\
-![Jira](https://img.shields.io/badge/-Jira-fafafa?style=flat&logo=jira&logoColor=333)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-fafafa?style=flat&logo=trello&logoColor=333)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-fafafa?style=flat&logo=jira&logoColor=007ACC)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-fafafa?style=flat&logo=trello&logoColor=007ACC)&nbsp;
 ![Asana](https://img.shields.io/badge/-Asana-fafafa?style=flat&logo=asana&logoColor=E23D4D)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-fafafa?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-fafafa?style=flat&logo=adobe-illustrator)&nbsp;
