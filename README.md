@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on web projects
-- 📫 How to reach me : <a href="mailto:noeliethmariana@gmail.com">noeliethmariana@gmail.com</a>
+- 📫 How to reach me : <a href="mailto:noeliethlongart@gmail.com">noeliethlongart@gmail.com</a>
 
 I am a UX/UI designer & Frontend developer. I help startups and businesses to solve their users' problems with minimalistic clean design and user-friendly layouts. I have experience with the most popular design tools (Adobe products, Figma) and in all aspects of Web design, Layout development, mobile and desktop applications.
 
@@ -60,6 +60,7 @@ WordPress website design and development. Desktop applications UX/UI, prototypes
 ![Photoshop](https://img.shields.io/badge/-Photoshop-fafafa?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-XD-fafafa?style=flat&logo=adobe-xd)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-fafafa?style=flat&logo=figma)
+![InVision](https://img.shields.io/badge/-InVision-fafafa?style=flat&logo=invision)
 
 ## Find me around the web 🌎: 
 - My stuffs on <a href="https://dribbble.com/noelieth">Dribbble</a> 🔮
